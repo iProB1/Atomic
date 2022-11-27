@@ -1,2 +1,2 @@
 # Apollo
-* **[General](API/README.md)**
+* **[API](API/README.md)**
