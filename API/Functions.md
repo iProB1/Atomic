@@ -24,8 +24,8 @@
 | None |  **count2** | Number |
 | Packet NetID |  **netid** | Number |
 | Packet Flags |  **flags** | Number |
-| Packet Type |  **float1** | Number |
-| Packet Type |  **float2** | Number |
+| Packet float1 |  **float1** | Number |
+| Packet float2 |  **float2** | Number |
 | Packet posx |  **pos_x** | Number |
 | Packet posy |  **pos_y** | Number |
 | Packet pos2x |  **pos2_x** | Number |
