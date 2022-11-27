@@ -1,5 +1,5 @@
 ## Looking for Documentations ?
-* **[Changelogs](changelogs.md)**
+* **[Changelogs](Changelogs.md)**
 * **[Functions](Functions.md)**
 * **[ENet](ENet.md)**
 * **[ImGui](ImGui.md)**
