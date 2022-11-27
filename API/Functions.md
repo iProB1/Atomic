@@ -13,7 +13,7 @@
 ## Hooks
 
 ## Structs
-    std::string keys[18] = { "type", "objtype", "count1", "count2", "netid", "itemid", "flags", "float1", "int_data", "pos_x", "pos_y", "pos2_x", "pos2_y", "float2", "tile_x", "tile_y", "data_size", "data" };
+* **[GamePacket](#GamePacket)**
 
 ### GamePacket
 | Description | Name | Type |
