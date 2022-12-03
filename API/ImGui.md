@@ -19,9 +19,9 @@ ImGui.End()
 ```
 
 ## Example
-* **[Creating Menu](#Create Menu)**
+* **[Creating Menu](#Menu)**
 
-### Create Menu
+### Menu
 ```lua
 ImGui.Begin("title")
 ImGui.End()
