@@ -1,6 +1,22 @@
-#ImGui Documentation for Growtopia Executor
+# ImGui Documentation for Growtopia Executor
 * **[Example](#Example)**
 * **[Functions](#functions)**
+
+## functions
+* **[Begin](#Begin)**
+* **[End](#End)**
+
+## Begin
+```lua
+-- Begins Menu
+ImGui.Begin(string title)
+```
+
+## End 
+```lua
+-- Ends Menu
+ImGui.End()
+```
 
 ## Example
 
