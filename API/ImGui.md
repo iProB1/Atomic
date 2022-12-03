@@ -6,19 +6,20 @@
 * **[Begin](#Begin)**
 * **[End](#End)**
 
-## Begin
+### Begin
 ```lua
 -- Begins Menu
 ImGui.Begin(string title)
 ```
 
-## End 
+### End 
 ```lua
 -- Ends Menu
 ImGui.End()
 ```
 
 ## Example
+* **[Creating Menu](#Create Menu)**
 
 ### Create Menu
 ```lua
