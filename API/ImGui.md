@@ -33,7 +33,7 @@ log(tab:GetItemsCount())
 ### Button
 ```lua
 tab = Tab("TabName")
-tab:Button("its button" function() log("Hello") end)
+tab:Button("its button", function() log("Hello") end)
 ```
 
 ### Checkbox
@@ -47,7 +47,7 @@ tab:Checkbox("Test", smthng)
 ```lua
 tab = Tab("TabName")
 smthng = false
-tab:Button("its button" function() log("Hello") end)
+tab:Button("its button", function() log("Hello") end)
 tab:Spacing()
 tab:Checkbox("Test", smthng)
 ```
@@ -56,7 +56,7 @@ tab:Checkbox("Test", smthng)
 ```lua
 tab = Tab("TabName")
 smthng = false
-tab:Button("its button" function() log("Hello") end)
+tab:Button("its button", function() log("Hello") end)
 tab:SameLine()
 tab:Checkbox("Test", smthng)
 ```
@@ -78,5 +78,5 @@ tab:InputText("Hi This is a text", test)
 ### Clear
 ```lua
 tab = Tab("TabName")
-tab:Button("Clear Tab" tab:Clear())
+tab:Button("Clear Tab", tab:Clear())
 ```
