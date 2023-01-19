@@ -1,5 +1,5 @@
-# Apollo Info
-- Its a Growtopia Executor
+# Atomic Info
+- Its a Growtopia Internal
 
-* **[API](API/README.md)**
+* **[Executor API](API/README.md)**
 * **[Discord Server](https://discord.gg/Exd47XtGQv)**
